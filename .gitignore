@@ -1,1 +1,4 @@
 scripts/game.js
+lobby/game.test.js
+package.json
+package-lock.json
